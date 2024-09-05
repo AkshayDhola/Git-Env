@@ -28,7 +28,7 @@ This "git-env" extension for manage Github Account.
 * Click on `Generate Token`
 * Copy it
 
-## Extension Settings
+## Extension Settings and Commands
 
 * `gitenv Repo` - create git repository
 * `gitenv Track` - it's commit the changes on github

@@ -2,7 +2,7 @@
   "name": "git-env",
   "displayName": "git-env",
   "description": "It's manage your github account.",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "publisher": "Akshay-Dhola",
   "engines": {
     "vscode": "^1.92.0"
